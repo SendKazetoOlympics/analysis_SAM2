@@ -1,0 +1,1 @@
+The current `uv` installation does not work with `pytorch`. Follow the instructions in [Sam 2's repository](https://github.com/facebookresearch/sam2/tree/main) to install the packages.
